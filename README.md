@@ -1,6 +1,6 @@
 # Duty Pharmacy 
 
-- Pharmacy API = https://collectapi.com/tr/api/health/nobetci-eczane-api
+- Pharmacy API = https://www.nosyapi.com/api/nobetci-eczane
 
 ### FIELDS
 
